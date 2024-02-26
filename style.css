@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Helvetica Neue";
+    src: url("fonts/HelveticaNeueRoman.otf") format("otf")
+}
+html{
+    font-family: "Helvetica Neue";
+}
+body{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.container{{};
+}
