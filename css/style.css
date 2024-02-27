@@ -1,6 +1,9 @@
 @font-face {
     font-family: "Helvetica Neue";
-    src: url("fonts/Helvetica/Helvetica Regular.woff2") format("woff2")
+    src: url("fonts/Helvetica Regular.woff2") format("woff2");
+
+    font-family: "Helvetica neue";
+    src: url("fonts/Helvetica Regular.woff") format("woff");
 }
 html{
     font-family: "Helvetica Neue";
